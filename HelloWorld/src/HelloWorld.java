@@ -14,7 +14,6 @@ public class HelloWorld {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-<<<<<<< HEAD
 		System.out.println("Hello ASE2015 - how are you? :)");
 
 		String username = askForUsername();
@@ -40,9 +39,6 @@ public class HelloWorld {
 		scanner.close();
 
 		return username;
-=======
-		System.out.println("Hello ASE2015 - how are you now? :)");
->>>>>>> master
 	}
 
 }
